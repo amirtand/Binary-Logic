@@ -1,0 +1,44 @@
+.blueDiv{
+    width: 100%;
+    height: 400%;
+    background-color: blue;
+}
+
+#firstWhiteDiv{
+    width: 100%;
+    height: 500px;
+}
+
+#secondBlueDiv{
+    width: 100%;
+    height: 400%;
+    background-color: blue;
+}
+
+#middleDiv{
+    width: 60%;
+    height: 40%;
+}
+
+#content{
+    text-align: center;
+    width: 70%;
+    margin:auto;
+    margin-top: 250px;
+
+
+
+}
+
+#boxContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    border: 1px solid black;
+    width: 30%;
+    height: 200px;
+    margin: 3;
+    margin-top: 3%;
+}

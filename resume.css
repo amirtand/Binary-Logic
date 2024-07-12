@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+
+
+body{
+    background-color: rgba(255, 235, 205, 0.089);
+   margin: 12ex;
+   font-size: larger;
+}
+
+h3  {
+    color: rgb(227, 33, 33);
+}
+.EDUCATION {
+
+
+color: rgb(227, 33, 33);
+}
+
+h1 , h2 , a{
+    text-align: center;
+}
+
+h4{
+    color:red
+}
+
+

@@ -1,0 +1,32 @@
+h1 {
+    color: blue;
+}
+
+p{
+   color: brown; 
+}
+
+#heading1{
+    color: blue;
+}
+
+.class{
+    background-color: blueviolet;
+}
+
+.class2{
+    color: white;
+    background-color: black;
+}
+
+[title="box1"]{
+    background-color: antiquewhite;
+}
+
+[class="class1"] {
+    background-color: brown;
+}
+
+h1 , p , #heading1 , .class1 {
+    border: 1px solid black;
+}

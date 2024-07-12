@@ -1,0 +1,41 @@
+#div1{
+    background-color: blue;
+    width: 200px;
+    height: 2000px;
+    border: 20px;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 25px;
+    border-radius: 50;
+
+}
+#img{
+border-radius: 50%;
+border: 1px solid black;
+}
+
+#mainDiv{
+    background-color: blueviolet;
+    width: 500px;
+    height: 50px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 200px;
+    position: relative;
+}
+#subDiv{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: auto;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
